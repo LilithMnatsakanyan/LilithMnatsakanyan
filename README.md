@@ -1,8 +1,21 @@
-# 💫 About Me:
-👋 Hi there! I'm passionate about Data Analysis 📊 and AI/ML 🤖, currently pursuing my Bachelor’s at NPUA 🎓.<br>✨ I’ve worked on Machine Learning projects, including NLP 🗣️ and Computer Vision 👁️‍🗨️.<br>🔍 Recently, I analyzed large datasets to unlock insights at Melon AI 🍈!<br>🚀 Driven by curiosity and collaboration, I value integrity, teamwork, and a bit of healthy competition 🏆.
+# 💫 About Me
 
+👋 Hi! I’m a **Data Scientist** and final-year **Artificial Intelligence** student at NPUA 🎓. I specialize in building end-to-end analytical solutions, from robust data architectures to high-performance ML models.
 
-## 🌐 Socials:
+### 🛠️ What I do:
+* **AI/ML Engineering:** Developing scalable solutions in NLP and Computer Vision (GANs, Semantic Segmentation).
+* **Data Science:** Designing automated pipelines and predictive models to transform complex data into strategic insights 📊.
+* **Problem Solving:** Bridging the gap between raw data and real-world impact at companies like Melon AI and Liga Insurance 🚀.
+
+### 🧪 Tech Stack:
+* **Languages:** Python (Primary), SQL, C++
+* **AI/ML:** PyTorch, TensorFlow, Scikit-learn, GANs, Computer Vision
+* **Tools:** Git, Docker, Automated Data Pipelines, Interactive Dashboards
+
+### 🚀 Goal:
+I am driven by curiosity and a commitment to building AI that benefits society. I value integrity, teamwork, and the continuous pursuit of innovation 🏆.
+
+📫 **Let's connect!**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lilithhmnatsakanian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lilithmnatsakanian) 
 
 # 💻 Tech Stack:
