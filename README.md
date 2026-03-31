@@ -10,7 +10,7 @@
 ### 🧪 Tech Stack:
 * **Languages:** Python (Primary), SQL, C++
 * **AI/ML:** PyTorch, TensorFlow, Scikit-learn, GANs, Computer Vision
-* **Tools:** Git, Docker, Automated Data Pipelines, Interactive Dashboards
+* **Tools:** Git, Automated Data Pipelines, Interactive Dashboards
 
 ### 🚀 Goal:
 I am driven by curiosity and a commitment to building AI that benefits society. I value integrity, teamwork, and the continuous pursuit of innovation 🏆.
